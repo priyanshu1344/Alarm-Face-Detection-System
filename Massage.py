@@ -1,2 +1,2 @@
 import pywhatkit
-pywhatkit.sendwhatmsg('+9198458921', 'Hello, I  am AI', 10, 42)
+pywhatkit.sendwhatmsg('+0098458921', 'Hello, I  am AI', 10, 42)
