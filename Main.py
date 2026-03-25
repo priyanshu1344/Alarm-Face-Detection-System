@@ -11,7 +11,7 @@ from subprocess import call
 import pygame
 import time
 
-# Initialize the speech recognition engine 
+# Initialize the speech recognition engine
 r = sr.Recognizer()
 
 # Initialize the text-to-speech engine
