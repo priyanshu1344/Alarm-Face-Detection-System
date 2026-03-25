@@ -1,4 +1,4 @@
-import threading 
+import threading
 import cv2
 from deepface import DeepFace
 import speech_recognition as sr
