@@ -10,7 +10,7 @@ video_capture = cv2.VideoCapture(0)
 Priyanshu_image = face_recognition.load_image_file("Priyanshu.jpg") 
 Priyanshu_encoding = face_recognition. face_encoding(Priyanshu_image)[0]
 
-Abhiman_image = face_recognition.load_image_file("Abhiman.jpg")
+Abhiman_image = face_recognition.load_image_file("Abhiman.jpg") 
 Abhiman_encoding = face_recognition. face_encoding(Abhiman_image)[0]
 
 Praveen_image = face_recognition.load_image_file("Praveen.jpg")
