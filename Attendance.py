@@ -7,7 +7,7 @@ from datetime import datetime
 
 video_capture = cv2.VideoCapture(0) 
 
-Priyanshu_image = face_recognition.load_image_file("Priyanshu.jpg")
+Priyanshu_image = face_recognition.load_image_file("Priyanshu.jpg") 
 Priyanshu_encoding = face_recognition. face_encoding(Priyanshu_image)[0]
 
 Abhiman_image = face_recognition.load_image_file("Abhiman.jpg")
